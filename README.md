@@ -1,0 +1,2 @@
+# bowmansprog
+Auswertungsprogramm für Bogenschützentuniere
